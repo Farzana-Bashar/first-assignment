@@ -34,6 +34,7 @@
   width: 100%;
   /* background-size:  */
   text-align: right;
+  border-radius: 10px;
 }
 .social-media-image{
   height: 35px;
