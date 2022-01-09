@@ -16,7 +16,27 @@
   background-repeat: no-repeat;
   background-size: 140px;
   /* background-position: left; */
-
+}
+.my-section{
+  font-family: 'The Nautigal', cursive;
+  font-size: 40px;
+}
+.my-div{
+  text-align: center;
+}
+.my-div-2{
+  background-image: url('./images/illustrators/colored-pencils-on-yellow-background-with-copy-space-free-photo.jpeg');
+  background-position: center;
+  background-repeat: no-repeat; 
+  background-repeat: no-repeat;
+  height: 300px;
+  width: 100%;
+  /* background-size:  */
+  text-align: right;
+}
+.social-media-image{
+  height: 35px;
+  width: 50px;
 }
 .footer h1{
   font-family: 'Dancing Script', cursive;
@@ -64,6 +84,16 @@ body p{
   color: white;
   text-decoration: none;
   font-size: 12px;
+}
+.purple-button{
+  /* margin:auto; */
+  padding:10px 30px;
+  border-radius: 5px;
+  background-image: linear-gradient(rgb(5, 111, 138), rgb(137, 66, 218));
+  color: white;
+  text-decoration: none;
+  font-size: 12px;
+  font-family: 'Playfair Display', serif;
 }
 .one-third-div{
   width: 33.33%;
